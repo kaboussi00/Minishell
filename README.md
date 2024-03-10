@@ -3,7 +3,7 @@ mini-version of bash ;
 
 # Parsing Commands
 The Minishell project parses commands using a lexer and parser combination.
-It tokenizes user input into a series of tokens and constructs a syntax tree representing the command structure.
+It tokenizes user input into a series of tokens.
 The parsing process ensures correct interpretation of command arguments, options, and redirects.
 
 # execution Commands: 
